@@ -1,5 +1,5 @@
 {
-  "id": "98c2c353-38ac-40de-aaa4-ee88ca86e088",
+  "id": "4a85fcef-323b-46bb-85ec-08f95bb9c366",
   "name": "chat_bot_ayzio_environment",
   "values": [
     {
@@ -14,6 +14,6 @@
     }
   ],
   "_postman_variable_scope": "environment",
-  "_postman_exported_at": "2023-11-21T02:47:16.291Z",
+  "_postman_exported_at": "2023-11-21T04:21:01.546Z",
   "_postman_exported_using": "Postman"
 }
